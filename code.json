@@ -1,6 +1,6 @@
 {
   "AdsController": {
-    "adNetwork": "admob",
+    "adNetwork": "unity",
     "admobBanner": "ca-app-pub-3863740059386376/4074016300",
     "admobInterstitial": "ca-app-pub-3863740059386376/1447852968",
     "applovinBanner": "16cb520e5",
